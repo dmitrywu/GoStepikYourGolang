@@ -1,2 +1,3 @@
 # GoStepikYourGolang
-Stepik: Твой Golang курс, https://stepik.org/course/220674
+Stepik, курс: Твой Golang 
+https://stepik.org/course/220674
